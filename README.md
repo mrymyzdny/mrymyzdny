@@ -1,7 +1,7 @@
 <div align="center"> 
   <br>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kdam+Thmor+Pro&size=30&pause=4000&color=2CE8F7&random=false&width=500&height=70&lines=Here+Is+Maryam's+Coding+Life+%F0%9F%8C%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kdam+Thmor+Pro&size=30&pause=4000&color=2CE8F7&center=true&random=false&width=500&height=70&lines=Here+Is+Maryam's+Coding+Life+%F0%9F%8C%8E)](https://git.io/typing-svg)
 
   <br>
   
