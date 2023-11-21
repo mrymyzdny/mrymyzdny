@@ -1,4 +1,72 @@
-### Hi there 👋
+<div align="center"> 
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kdam+Thmor+Pro&size=29&duration=3000&pause=1000&color=32EFF7&repeat=false&random=false&width=435&lines=Here+Is+Maryam's+Coding+Life++%F0%9F%8C%8E)](https://git.io/typing-svg)
+  
+</div>
+
+<h2 align="center"><samp> 📖 Maryam's life story:</samp></h2>
+<br>
+<h3 align="center"><samp>
+    The story started from here when someone introduced Maryam to programming and she thought about programming seriously for the first time and got curious and started her    research ...  <br/>
+   She heard the experiences of many programmers and tried to find her interest before starting anything , finally she chose front end :D <br/> 
+   Now you can see her steps in this path:
+</samp></h3>
+<br>
+
+<h2 align="center"><samp>📚 Maryam's language & Skills:</samp></h2>
+<br>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,git,github,vscode" />
+  </a>
+</div>
+<br>
+
+<h2 align="center"><samp>💻 What's Maryam doing now?</samp></h2>
+<br>
+  <div align="center">
+    <h3><span align="center"><samp>🧩 she's learning react.</samp></span></h3>
+    <h3><span align="center"><samp>🧩 she's working on some react projects.</samp></span></h3>
+  <div>
+<br>
+
+<h2 align="center"><samp>🏅 Maryam's growth chart:</samp></h2>
+<br>
+<p align=center>
+  <div align=center>
+        <a href="https://github.com/mrymyzdny/github-readme-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=mrymyzdny&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="mrymyzdny" />
+    </a>
+    <a href="https://github.com/mrymyzdny/github-readme-streak-stats" title="Go to Source">
+      <img align="right" width=390 src="https://streak-stats.demolab.com/?user=mrymyzdny&theme=react&border=61dafb&hide_border=true" alt="mrymyzdny" />
+      <img/>
+    </a>
+
+  </div>
+  <br><br><br><br><br><br><br>
+</p>
+<br>
+
+
+<h2 align="center"><samp>🎨 Maryam's Codes album</samp></h2>
+<br>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/mrymyzdny/quiz-app" title="quiz-app">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrymyzdny&repo=quiz-app&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/mrymyzdny/BMI-calculator" title="BMI-calculator">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrymyzdny&repo=BMI-calculator&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/mrymyzdny/quiz-app" title="quiz-app">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrymyzdny&repo=quiz-app&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/mrymyzdny/BMI-calculator" title="BMI-calculator">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrymyzdny&repo=BMI-calculator&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
 
 <!--
 **mrymyzdny/mrymyzdny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
