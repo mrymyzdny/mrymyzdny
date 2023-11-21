@@ -1,10 +1,13 @@
 <div align="center"> 
+  <br>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Kdam+Thmor+Pro&size=29&duration=3000&pause=1000&color=32EFF7&repeat=false&random=false&width=435&lines=Here+Is+Maryam's+Coding+Life++%F0%9F%8C%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Kdam+Thmor+Pro&size=30&pause=4000&color=2CE8F7&random=false&width=500&height=70&lines=Here+Is+Maryam's+Coding+Life+%F0%9F%8C%8E)](https://git.io/typing-svg)
+
+  <br>
   
 </div>
 
-<h2 align="center"><samp> 📖 Maryam's life story:</samp></h2>
+<h2 align="center"><samp>📖 Maryam's life story:</samp></h2>
 <br>
 <h3 align="center"><samp>
     The story started from here when someone introduced Maryam to programming and she thought about programming seriously for the first time and got curious and started her    research ...  <br/>
