@@ -54,20 +54,20 @@
 <h2 align="center"><samp>🎨 Maryam's Codes album</samp></h2>
 <br>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/mrymyzdny/quiz-app" title="quiz-app">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrymyzdny&repo=quiz-app&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/mrymyzdny/fashion-store" title="fashion-store">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrymyzdny&repo=fashion-store&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/mrymyzdny/BMI-calculator" title="BMI-calculator">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrymyzdny&repo=BMI-calculator&theme=react&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/mrymyzdny/bmi-calculater" title="bmi-calculater">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrymyzdny&repo=bmi-calculater&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/mrymyzdny/quiz-app" title="quiz-app">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrymyzdny&repo=quiz-app&theme=react&border_color=61dafb&border_radius=10">
+  <a align="left" href="https://github.com/mrymyzdny/quiz" title="quiz">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrymyzdny&repo=quiz&theme=react&border_color=61dafb&border_radius=10">
   </a>
-  <a align="right" href="https://github.com/mrymyzdny/BMI-calculator" title="BMI-calculator">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrymyzdny&repo=BMI-calculator&theme=react&border_color=61dafb&border_radius=10">
+  <a align="right" href="https://github.com/mrymyzdny/weather-app" title="weather-app">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrymyzdny&repo=weather-app&theme=react&border_color=61dafb&border_radius=10">
   </a>
 </div>
 
