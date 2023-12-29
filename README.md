@@ -54,6 +54,15 @@
 <h2 align="center"><samp>🎨 Maryam's Codes album</samp></h2>
 <br>
 <div width="100%" align="center">
+  <a align="left" href="https://github.com/mrymyzdny/dashboard-admin" title="dashboard-admin">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrymyzdny&repo=dashboard-admin&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+  <a align="right" href="https://github.com/mrymyzdny/hackthebox.com" title="hackthebox.com">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrymyzdny&repo=hackthebox.com&theme=react&border_color=61dafb&border_radius=10">
+  </a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+<div width="100%" align="center">
   <a align="left" href="https://github.com/mrymyzdny/fashion-store" title="fashion-store">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mrymyzdny&repo=fashion-store&theme=react&border_color=61dafb&border_radius=10">
   </a>
